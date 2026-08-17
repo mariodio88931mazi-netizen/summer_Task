@@ -1,20 +1,20 @@
-ï»¿/*ã‚¸ãƒ£ãƒƒã‚¯ãƒãƒƒãƒˆ
-æ¦‚è¦ï¼š
-ãƒ»CPUã¨ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒäº¤äº’ã«ï¼’ã¤ã®å…­é¢ã‚µã‚¤ã‚³ãƒ­ã‚’æŒ¯ã‚Šã€1ã‹ã‚‰9ã¾ã§ã®ãƒã‚¹ã‚’é™£å–ã‚Šã™ã‚‹ã‚²ãƒ¼ãƒ ã§ã™ã€‚
+/*ƒWƒƒƒbƒNƒ|ƒbƒg
+ŠT—vF
+ECPU‚ÆƒvƒŒƒCƒ„[‚ªŒğŒİ‚É‚Q‚Â‚Ì˜Z–ÊƒTƒCƒRƒ‚ğU‚èA1‚©‚ç9‚Ü‚Å‚Ìƒ}ƒX‚ğwæ‚è‚·‚éƒQ[ƒ€‚Å‚·B
 
-ã‚²ãƒ¼ãƒ ã®æµã‚Œï¼š
-ãƒ»ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã¯äº¤äº’ã«å…­é¢ã‚µã‚¤ã‚³ãƒ­ã‚’2å€‹æŒ¯ã‚‹ã€‚
-ãƒ»å‡ºãŸç›®ã®æ•°ã«åˆã‚ã›ã¦ã€å¯¾å¿œã™ã‚‹ãƒã‚¹ã‚’å–ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
-ã€€ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã¯ä»¥ä¸‹ã®ã†ã¡1ã¤ã‚’é¸æŠã§ãã‚‹:
-ã€€ã€€â‘ å…­é¢ã‚µã‚¤ã‚³ãƒ­ã®ç›®
-ã€€ã€€â‘¡å…­é¢ã‚µã‚¤ã‚³ãƒ­ã®ç›®ã®åˆè¨ˆ
-ä¾‹ï¼š
-ã€€å…­é¢ã‚µã‚¤ã‚³ãƒ­ã®ç›®ãŒã€1ã¨5ã®å ´åˆâ†’1ã€5ã€6ã®ã©ã‚Œã‹ã®ãƒã‚¹ã‚’å–ã‚‹äº‹ãŒå‡ºæ¥ã¾ã™ã€‚
-ãƒ»å–ã‚‰ã‚Œã¦ã„ã‚‹ã‚‚ã—ãã¯å–ã£ã¦ã„ã‚‹å ´åˆã¯ã€å–ã‚‹äº‹ã¯ã§ãã¾ã›ã‚“ã€‚
-ãƒ»ã“ã®ä¸€é€£ã®å‹•ä½œã‚’äº¤äº’ã«è¡Œã£ã¦ãã ã•ã„ã€‚
-ã‚²ãƒ¼ãƒ ã®çµ‚äº†ï¼š
-ãƒ»ã©ã¡ã‚‰ã‹ã®ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒãƒã‚¹ã‚’å–ã‚‹äº‹ãŒå‡ºæ¥ãªããªã£ãŸæ™‚ç‚¹ã§ã‚²ãƒ¼ãƒ çµ‚äº†ã€‚
-ãƒ»ã‚‚ã—å…¨ã¦ã®ãƒã‚¹ãŒå–ã£ãŸå ´åˆã€ãã®ã‚¿ãƒ¼ãƒ³ã§ãƒã‚¹ã‚’å–ã£ãŸãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒå‹ã¡ã¨ãªã‚Šã¾ã™ã€‚
+ƒQ[ƒ€‚Ì—¬‚êF
+EƒvƒŒƒCƒ„[‚ÍŒğŒİ‚É˜Z–ÊƒTƒCƒRƒ‚ğ2ŒÂU‚éB
+Eo‚½–Ú‚Ì”‚É‡‚í‚¹‚ÄA‘Î‰‚·‚éƒ}ƒX‚ğæ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+@ƒvƒŒƒCƒ„[‚ÍˆÈ‰º‚Ì‚¤‚¿1‚Â‚ğ‘I‘ğ‚Å‚«‚é:
+@@‡@˜Z–ÊƒTƒCƒRƒ‚Ì–Ú
+@@‡A˜Z–ÊƒTƒCƒRƒ‚Ì–Ú‚Ì‡Œv
+—áF
+@˜Z–ÊƒTƒCƒRƒ‚Ì–Ú‚ªA1‚Æ5‚Ìê‡¨1A5A6‚Ì‚Ç‚ê‚©‚Ìƒ}ƒX‚ğæ‚é–‚ªo—ˆ‚Ü‚·B
+Eæ‚ç‚ê‚Ä‚¢‚é‚à‚µ‚­‚Íæ‚Á‚Ä‚¢‚éê‡‚ÍAæ‚é–‚Í‚Å‚«‚Ü‚¹‚ñB
+E‚±‚Ìˆê˜A‚Ì“®ì‚ğŒğŒİ‚És‚Á‚Ä‚­‚¾‚³‚¢B
+ƒQ[ƒ€‚ÌI—¹F
+E‚Ç‚¿‚ç‚©‚ÌƒvƒŒƒCƒ„[‚ªƒ}ƒX‚ğæ‚é–‚ªo—ˆ‚È‚­‚È‚Á‚½“_‚ÅƒQ[ƒ€I—¹B
+E‚à‚µ‘S‚Ä‚Ìƒ}ƒX‚ªæ‚Á‚½ê‡A‚»‚Ìƒ^[ƒ“‚Åƒ}ƒX‚ğæ‚Á‚½ƒvƒŒƒCƒ„[‚ªŸ‚¿‚Æ‚È‚è‚Ü‚·B
 */
 #include<iostream>
 #include<cstdlib>
@@ -22,78 +22,78 @@
 
 using namespace std;
 
-//å®šæ•°å®£è¨€
+//’è”éŒ¾
 const int SIZE = 9;
-const int MASU_MAX = 9;
-const int MASU_MIN = 1;
-const int SAIKORO_MAX = 6;
-const int SAIKORO_0_DELETE = 1;
+const int CELL_MAX = 9;
+const int CELL_MIN = 1;
+const int DICE_MAX = 6;
+const int DICE_0_DELETE = 1;
 const int SAIKORO_RANDOM_CHOICE = 2;
 const int RESET = 0;
 const int INPUT_MAX = 2;
 const int INPUT_MIN = 0;
-const int MASU_NI_AWASERU = 1;
-const int MASU_FREE = 0;
-const int PLAYER_GOT_MASU = 1;
-const int CPU_GOT_MASU = 2;
+const int CELL_INDEX_OFFSET = 1;
+const int CELL_FREE = 0;
+const int PLAYER_CELL = 1;
+const int CPU_CELL = 2;
 const int CPU_RANDOM_CHOICE = 3;
 
 
 int InputCheker(int min, int max);
 int diceRoll(int& saikoro1, int& saikoro2, int& total);
-bool CheckMasu(const int masu[], int player);
-bool CanTakeMasu(const int masu[], int saikoro1, int saikoro2, int total);
-void MasuHyouji(const int masu[], int size);
+bool isCelltaken(const int masu[], int player);
+bool CanTakeCell(const int masu[], int saikoro1, int saikoro2, int total);
+void displayBoard(const int masu[], int size);
 int choiceNumber(int playerChoice, int saikoro1, int saikoro2, int total, int& player);
-bool GameOver(const int masu[], int size);
+bool isGameOver(const int masu[], int size);
 
 int main(void)
 {
 	srand((unsigned)time(NULL));
 
-	//å¤‰æ•°å®£è¨€
-	int saikoro1{}, saikoro2{}, total{};
+	//•Ï”éŒ¾
+	int dice1{}, dice2{}, diceTotal{};
 	int playerChoice;
-	int player{};
+	int playerCell{};
 	int cpuChoice{};
-	int cpu{};
-	int masu[SIZE] = { RESET,RESET,RESET,RESET,RESET,RESET,RESET,RESET,RESET };
-	int i{};
+	int cpuCell{};
+	int board[SIZE] = { RESET,RESET,RESET,RESET,RESET,RESET,RESET,RESET,RESET };
+	int index{};
 	int playerpoint{};
 	int cpupoint{};
 
-	cout << "================ã‚¸ãƒ£ãƒƒã‚¯ãƒãƒƒãƒˆã‚²ãƒ¼ãƒ ï¼=================\n" << endl;
-	//ã‚²ãƒ¼ãƒ ãƒ«ãƒ¼ãƒ—
+	cout << "================ƒWƒƒƒbƒNƒ|ƒbƒgƒQ[ƒ€I=================\n" << endl;
+	//ƒQ[ƒ€ƒ‹[ƒv
 	while (true)
 	{
-		total = RESET;
-		//ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã®ã‚¿ãƒ¼ãƒ³
-		cout << "ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã®ã‚¿ãƒ¼ãƒ³ã§ã™ã€‚" << endl;
+		diceTotal = RESET;
+		//ƒvƒŒƒCƒ„[‚Ìƒ^[ƒ“
+		cout << "ƒvƒŒƒCƒ„[‚Ìƒ^[ƒ“‚Å‚·B" << endl;
 
-		//ãƒã‚¹è¡¨ç¤º
-		MasuHyouji(masu, SIZE);
+		//ƒ}ƒX•\¦
+		displayBoard(board, SIZE);
 
-		//ã‚µã‚¤ã‚³ãƒ­ã‚’æŒ¯ã‚‹
+		//ƒTƒCƒRƒ‚ğU‚é
 
-		total = diceRoll(saikoro1, saikoro2, total);
+		diceTotal = diceRoll(dice1, dice2, diceTotal);
 
 		while (true)
 		{
-			//ã‚µã‚¤ã‚³ãƒ­ã®ç›®ã‚’è¡¨ç¤º
-			cout << "ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã®ã‚µã‚¤ã‚³ãƒ­ã®ç›®ã¯ã€" << "\nï¼œã‚µã‚¤ã‚³ãƒ­ï¼‘ï¼ï¼" << saikoro1 << "\nï¼œã‚µã‚¤ã‚³ãƒ­ï¼’ï¼ï¼" << saikoro2 << "\nï¼œ  åˆè¨ˆå€¤  ï¼ï¼" << total << "\nã§ã™ã€‚" << endl;
-			cout << "ã©ã®æ•°å­—ã‚’ä½¿ã„ã¾ã™ã‹ï¼Ÿ\nã‚µã‚¤ã‚³ãƒ­ï¼‘ = 1ã‚­ãƒ¼:   ã‚µã‚¤ã‚³ãƒ­ï¼’ = 2ã‚­ãƒ¼:   åˆè¨ˆå€¤ = ï¼ã‚­ãƒ¼:\n~~~å¯¾å¿œã™ã‚‹ã‚­ãƒ¼ã‚’å…¥åŠ›~~~" << endl;
+			//ƒTƒCƒRƒ‚Ì–Ú‚ğ•\¦
+			cout << "ƒvƒŒƒCƒ„[‚ÌƒTƒCƒRƒ‚Ì–Ú‚ÍA" << "\nƒƒTƒCƒRƒ‚P„" << dice1 << "\nƒƒTƒCƒRƒ‚Q„" << dice2 << "\nƒ  ‡Œv’l  „" << diceTotal << "\n‚Å‚·B" << endl;
+			cout << "‚Ç‚Ì”š‚ğg‚¢‚Ü‚·‚©H\nƒTƒCƒRƒ‚P = 1ƒL[:   ƒTƒCƒRƒ‚Q = 2ƒL[:   ‡Œv’l = ‚OƒL[:\n~~~‘Î‰‚·‚éƒL[‚ğ“ü—Í~~~" << endl;
 			playerChoice = InputCheker(INPUT_MIN, INPUT_MAX);
 
-			choiceNumber(playerChoice, saikoro1, saikoro2, total, player);
+			choiceNumber(playerChoice, dice1, dice2, diceTotal, playerCell);
 
-			//ãƒã‚¹ã®çŠ¶æ…‹ã‚’ç¢ºèª
-			if (!CanTakeMasu(masu, saikoro1, saikoro2, total))
+			//ƒ}ƒX‚Ìó‘Ô‚ğŠm”F
+			if (!CanTakeCell(board, dice1, dice2, diceTotal))
 			{
 				break;
 			}
-			if (!CheckMasu(masu, player))
+			if (!isCelltaken(board, playerCell))
 			{
-				// ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒå†åº¦é¸ã¹ã‚‹ã‚ˆã†ã«ãƒ«ãƒ¼ãƒ—ã™ã‚‹
+				// ƒvƒŒƒCƒ„[‚ªÄ“x‘I‚×‚é‚æ‚¤‚Éƒ‹[ƒv‚·‚é
 				continue;
 			}
 			else
@@ -103,98 +103,98 @@ int main(void)
 
 		}
 
-		if (!CanTakeMasu(masu, saikoro1, saikoro2, total))
+		if (!CanTakeCell(board, dice1, dice2, diceTotal))
 		{
-			// ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒãƒã‚¹ã‚’å–ã‚Œãªã„å ´åˆã€ã‚²ãƒ¼ãƒ çµ‚äº†
-			cout << "ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã¯ãƒã‚¹ã‚’å–ã‚Œã¾ã›ã‚“ã€‚" << endl;
-			cout << "ã‚²ãƒ¼ãƒ çµ‚äº†ã§ã™ã€‚" << endl;
-			cout << "CPUã®å‹åˆ©ã§ã™ã€‚" << endl;
+			// ƒvƒŒƒCƒ„[‚ªƒ}ƒX‚ğæ‚ê‚È‚¢ê‡AƒQ[ƒ€I—¹
+			cout << "ƒvƒŒƒCƒ„[‚Íƒ}ƒX‚ğæ‚ê‚Ü‚¹‚ñB" << endl;
+			cout << "ƒQ[ƒ€I—¹‚Å‚·B" << endl;
+			cout << "CPU‚ÌŸ—˜‚Å‚·B" << endl;
 			break;
 		}
 
-		masu[player - MASU_NI_AWASERU] = PLAYER_GOT_MASU;
+		board[playerCell - CELL_INDEX_OFFSET] = PLAYER_CELL;
 		playerpoint++;
-		if (GameOver(masu, SIZE))
+		if (isGameOver(board, SIZE))
 		{
-			cout << "å…¨ã¦ã®ãƒã‚¹ãŒå–ã‚‰ã‚Œã¾ã—ãŸã€‚" << endl;
-			cout << "ï¼œï¼œï¼œï¼œï¼œï¼œãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã®å‹åˆ©ã§ã™ï¼ï¼ï¼ï¼ï¼ï¼ï¼" << endl;
+			cout << "‘S‚Ä‚Ìƒ}ƒX‚ªæ‚ç‚ê‚Ü‚µ‚½B" << endl;
+			cout << "ƒƒƒƒƒƒƒvƒŒƒCƒ„[‚ÌŸ—˜‚Å‚·I„„„„„„" << endl;
 			break;
 		}
 
-		//CPUã®ã‚¿ãƒ¼ãƒ³
-		cout << "cpuã®ã‚¿ãƒ¼ãƒ³ã§ã™ã€‚" << endl;
+		//CPU‚Ìƒ^[ƒ“
+		cout << "cpu‚Ìƒ^[ƒ“‚Å‚·B" << endl;
 
-		//ãƒã‚¹è¡¨ç¤º
-		MasuHyouji(masu, SIZE);
+		//ƒ}ƒX•\¦
+		displayBoard(board, SIZE);
 
-		//ã‚µã‚¤ã‚³ãƒ­ã‚’æŒ¯ã‚‹
-		total = diceRoll(saikoro1, saikoro2, total);
+		//ƒTƒCƒRƒ‚ğU‚é
+		diceTotal = diceRoll(dice1, dice2, diceTotal);
 
-		//ã‚µã‚¤ã‚³ãƒ­ã®ç›®ã‚’è¡¨ç¤º
-		cout << "CPUã®ã‚µã‚¤ã‚³ãƒ­ã®ç›®ã¯ã€" << "\nï¼œã‚µã‚¤ã‚³ãƒ­ï¼‘ï¼ï¼" << saikoro1 << "\nï¼œã‚µã‚¤ã‚³ãƒ­ï¼’ï¼ï¼" << saikoro2 << "\nï¼œ  åˆè¨ˆå€¤  ï¼ï¼" << total << "\nã§ã™ã€‚" << endl;
+		//ƒTƒCƒRƒ‚Ì–Ú‚ğ•\¦
+		cout << "CPU‚ÌƒTƒCƒRƒ‚Ì–Ú‚ÍA" << "\nƒƒTƒCƒRƒ‚P„" << dice1 << "\nƒƒTƒCƒRƒ‚Q„" << dice2 << "\nƒ  ‡Œv’l  „" << diceTotal << "\n‚Å‚·B" << endl;
 
 		while (true)
 		{
-			//CPUã®é¸æŠã‚’ãƒ©ãƒ³ãƒ€ãƒ ã«æ±ºå®š
+			//CPU‚Ì‘I‘ğ‚ğƒ‰ƒ“ƒ_ƒ€‚ÉŒˆ’è
 			cpuChoice = rand() % CPU_RANDOM_CHOICE;
-			cout << "CPUã¯ã€" << cpuChoice << "ã‚­ãƒ¼" << " ã‚’é¸æŠã—ã¾ã—ãŸã€‚" << endl;
+			cout << "CPU‚ÍA" << cpuChoice << "ƒL[" << " ‚ğ‘I‘ğ‚µ‚Ü‚µ‚½B" << endl;
 
-			choiceNumber(cpuChoice, saikoro1, saikoro2, total, cpu);
+			choiceNumber(cpuChoice, dice1, dice2, diceTotal, cpuCell);
 
-			if (cpu >= MASU_MIN && cpu <= MASU_MAX &&
-				masu[cpu - MASU_NI_AWASERU] == MASU_FREE)
+			if (cpuCell >= CELL_MIN && cpuCell <= CELL_MAX &&
+				board[cpuCell - CELL_INDEX_OFFSET] == CELL_FREE)
 			{
 				break;
 			}
 
-			cout << "ãã®ãƒã‚¹ã¯å–ã‚Œã¾ã›ã‚“ã€‚CPUãŒã‚‚ã†ä¸€åº¦é¸ã³ã¾ã™ã€‚" << endl;
+			cout << "‚»‚Ìƒ}ƒX‚Íæ‚ê‚Ü‚¹‚ñBCPU‚ª‚à‚¤ˆê“x‘I‚Ñ‚Ü‚·B" << endl;
 
-			if (!CanTakeMasu(masu, saikoro1, saikoro2, total))
+			if (!CanTakeCell(board, dice1, dice2, diceTotal))
 			{
 				break;
 			}
 		}
 
-		if (!CanTakeMasu(masu, saikoro1, saikoro2, total))
+		if (!CanTakeCell(board, dice1, dice2, diceTotal))
 		{
-			// CPUãŒãƒã‚¹ã‚’å–ã‚Œãªã„å ´åˆã€ã‚²ãƒ¼ãƒ çµ‚äº†
-			cout << "CPUã¯ãƒã‚¹ã‚’å–ã‚Œã¾ã›ã‚“ã€‚" << endl;
-			cout << "ã‚²ãƒ¼ãƒ çµ‚äº†ã§ã™ã€‚" << endl;
-			cout << "ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã®å‹åˆ©ã§ã™ã€‚" << endl;
+			// CPU‚ªƒ}ƒX‚ğæ‚ê‚È‚¢ê‡AƒQ[ƒ€I—¹
+			cout << "CPU‚Íƒ}ƒX‚ğæ‚ê‚Ü‚¹‚ñB" << endl;
+			cout << "ƒQ[ƒ€I—¹‚Å‚·B" << endl;
+			cout << "ƒvƒŒƒCƒ„[‚ÌŸ—˜‚Å‚·B" << endl;
 			break;
 		}
 
-		masu[cpu - MASU_NI_AWASERU] = CPU_GOT_MASU;
+		board[cpuCell - CELL_INDEX_OFFSET] = CPU_CELL;
 		cpupoint++;
-		if (GameOver(masu, SIZE))
+		if (isGameOver(board, SIZE))
 		{
-			cout << "å…¨ã¦ã®ãƒã‚¹ãŒå–ã‚‰ã‚Œã¾ã—ãŸã€‚" << endl;
-			cout << "ï¼œï¼œï¼œï¼œï¼œï¼œCPUã®å‹åˆ©ã§ã™ï¼ï¼ï¼ï¼ï¼ï¼ï¼" << endl;
+			cout << "‘S‚Ä‚Ìƒ}ƒX‚ªæ‚ç‚ê‚Ü‚µ‚½B" << endl;
+			cout << "ƒƒƒƒƒƒCPU‚ÌŸ—˜‚Å‚·I„„„„„„" << endl;
 			break;
 		}
 
-		cout << "CPUã¯ã€" << cpu << "ã®ãƒã‚¹ã‚’å–ã‚Šã¾ã—ãŸã€‚" << endl;
+		cout << "CPU‚ÍA" << cpuCell << "‚Ìƒ}ƒX‚ğæ‚è‚Ü‚µ‚½B" << endl;
 	}
 }
 
-void MasuHyouji(const int masu[], int size)
+void displayBoard(const int masu[], int size)
 {
 	cout << "============================================" << endl;
-	cout << "ç¾åœ¨ã®ãƒã‚¹ã®çŠ¶æ…‹ã¯ã€" << endl;
+	cout << "Œ»İ‚Ìƒ}ƒX‚Ìó‘Ô‚ÍA" << endl;
 	cout << "1 2 3 4 5 6 7 8 9" << endl;
 	for (int i = 0; i < size; ++i)
 	{
-		if (masu[i] == MASU_FREE)
+		if (masu[i] == CELL_FREE)
 		{
-			cout << "â–¡ ";
+			cout << "  ";
 		}
-		else if (masu[i] == PLAYER_GOT_MASU)
+		else if (masu[i] == PLAYER_CELL)
 		{
-			cout << "â–  ";
+			cout << "¡ ";
 		}
 		else
 		{
-			cout << "â—† ";
+			cout << "Ÿ ";
 		}
 	}
 	cout << "\n============================================" << endl;
@@ -203,33 +203,33 @@ void MasuHyouji(const int masu[], int size)
 
 int diceRoll(int& saikoro1, int& saikoro2, int& total)
 {
-	//ã‚µã‚¤ã‚³ãƒ­ã‚’æŒ¯ã‚‹
-	saikoro1 = rand() % SAIKORO_MAX + SAIKORO_0_DELETE;
-	saikoro2 = rand() % SAIKORO_MAX + SAIKORO_0_DELETE;
+	//ƒTƒCƒRƒ‚ğU‚é
+	saikoro1 = rand() % DICE_MAX + DICE_0_DELETE;
+	saikoro2 = rand() % DICE_MAX + DICE_0_DELETE;
 	total = saikoro1 + saikoro2;
 	return total;
 }
 
 int choiceNumber(int playerChoice, int saikoro1, int saikoro2, int total, int& player)
 {
-	int randomChoice = rand() % SAIKORO_RANDOM_CHOICE; //0, 1ã®ã„ãšã‚Œã‹ã‚’ãƒ©ãƒ³ãƒ€ãƒ ã«é¸æŠ
+	int randomDice = rand() % SAIKORO_RANDOM_CHOICE; //0, 1‚Ì‚¢‚¸‚ê‚©‚ğƒ‰ƒ“ƒ_ƒ€‚É‘I‘ğ
 	switch (playerChoice)
 	{
 	case 0:
 		player = total;
 		if (player >= 10)
 		{
-			cout << "\n*ã‚µã‚¤ã‚³ãƒ­ã®ç›®ãŒ10ä»¥ä¸Šã®ãŸã‚ã€ã‚µã‚¤ã‚³ãƒ­ï¼‘ã‹ã‚µã‚¤ã‚³ãƒ­ï¼’ã‚’é¸æŠã—ã¾ã™ã€‚*\n" << endl;
+			cout << "\n*ƒTƒCƒRƒ‚Ì–Ú‚ª10ˆÈã‚Ì‚½‚ßAƒTƒCƒRƒ‚P‚©ƒTƒCƒRƒ‚Q‚ğ‘I‘ğ‚µ‚Ü‚·B*\n" << endl;
 
-			//ãƒ©ãƒ³ãƒ€ãƒ ã«ã‚µã‚¤ã‚³ãƒ­1ã‹ã‚µã‚¤ã‚³ãƒ­2ã‚’é¸æŠ
-			player = randomChoice == 0 ? saikoro1 : saikoro2;
-			if (randomChoice == 0)
+			//ƒ‰ƒ“ƒ_ƒ€‚ÉƒTƒCƒRƒ1‚©ƒTƒCƒRƒ2‚ğ‘I‘ğ
+			player = randomDice == 0 ? saikoro1 : saikoro2;
+			if (randomDice == 0)
 			{
-				cout << "ã‚µã‚¤ã‚³ãƒ­ï¼‘ã«ã—ã¾ã—ãŸã€‚" << endl;
+				cout << "ƒTƒCƒRƒ‚P‚É‚µ‚Ü‚µ‚½B" << endl;
 			}
 			else
 			{
-				cout << "ã‚µã‚¤ã‚³ãƒ­ï¼’ã«ã—ã¾ã—ãŸã€‚" << endl;
+				cout << "ƒTƒCƒRƒ‚Q‚É‚µ‚Ü‚µ‚½B" << endl;
 			}
 		}
 		break;
@@ -243,46 +243,46 @@ int choiceNumber(int playerChoice, int saikoro1, int saikoro2, int total, int& p
 	return player;
 }
 
-bool CheckMasu(const int masu[], int player)
+bool isCelltaken(const int masu[], int player)
 {
-	if (masu[player - MASU_NI_AWASERU] == PLAYER_GOT_MASU)
+	if (masu[player - CELL_INDEX_OFFSET] == PLAYER_CELL)
 	{
-		cout << "\n*ãã®ãƒã‚¹ã¯ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã«æ—¢ã«å–ã‚‰ã‚Œã¦ã„ã¾ã™ã€‚åˆ¥ã®ãƒã‚¹ã‚’é¸æŠã—ã¦ãã ã•ã„ã€‚*\n" << endl;
+		cout << "\n*‚»‚Ìƒ}ƒX‚ÍƒvƒŒƒCƒ„[‚ÉŠù‚Éæ‚ç‚ê‚Ä‚¢‚Ü‚·B•Ê‚Ìƒ}ƒX‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B*\n" << endl;
 		return false;
 	}
-	if (masu[player - MASU_NI_AWASERU] == CPU_GOT_MASU)
+	if (masu[player - CELL_INDEX_OFFSET] == CPU_CELL)
 	{
-		cout << "\n*ãã®ãƒã‚¹ã¯CPUãŒæ—¢ã«å–ã£ã¦ã„ã¾ã™ã€‚åˆ¥ã®ãƒã‚¹ã‚’é¸æŠã—ã¦ãã ã•ã„ã€‚*\n" << endl;
+		cout << "\n*‚»‚Ìƒ}ƒX‚ÍCPU‚ªŠù‚Éæ‚Á‚Ä‚¢‚Ü‚·B•Ê‚Ìƒ}ƒX‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢B*\n" << endl;
 		return false;
 	}
 
 	return true;
 }
 
-bool CanTakeMasu(const int masu[], int saikoro1, int saikoro2, int total)
+bool CanTakeCell(const int masu[], int saikoro1, int saikoro2, int total)
 {
-	// ã‚µã‚¤ã‚³ãƒ­1ã®ç›®ãŒç©ºã„ã¦ã„ã‚‹ã‹
-	if (masu[saikoro1 - MASU_NI_AWASERU] == MASU_FREE)
+	// ƒTƒCƒRƒ1‚Ì–Ú‚ª‹ó‚¢‚Ä‚¢‚é‚©
+	if (masu[saikoro1 - CELL_INDEX_OFFSET] == CELL_FREE)
 	{
 		return true;
 	}
 
-	// ã‚µã‚¤ã‚³ãƒ­2ã®ç›®ãŒç©ºã„ã¦ã„ã‚‹ã‹
-	if (masu[saikoro2 - MASU_NI_AWASERU] == MASU_FREE)
+	// ƒTƒCƒRƒ2‚Ì–Ú‚ª‹ó‚¢‚Ä‚¢‚é‚©
+	if (masu[saikoro2 - CELL_INDEX_OFFSET] == CELL_FREE)
 	{
 		return true;
 	}
 
-	// åˆè¨ˆå€¤ãŒ1ï½9ã®ç¯„å›²ãªã‚‰ã€åˆè¨ˆå€¤ã®ãƒã‚¹ãŒç©ºã„ã¦ã„ã‚‹ã‹
-	if (total >= MASU_MIN && total <= MASU_MAX)
+	// ‡Œv’l‚ª1`9‚Ì”ÍˆÍ‚È‚çA‡Œv’l‚Ìƒ}ƒX‚ª‹ó‚¢‚Ä‚¢‚é‚©
+	if (total >= CELL_MIN && total <= CELL_MAX)
 	{
-		if (masu[total - MASU_NI_AWASERU] == MASU_FREE)
+		if (masu[total - CELL_INDEX_OFFSET] == CELL_FREE)
 		{
 			return true;
 		}
 	}
 
-	// ã©ã®ãƒã‚¹ã‚‚å–ã‚Œãªã„
+	// ‚Ç‚Ìƒ}ƒX‚àæ‚ê‚È‚¢
 	return false;
 }
 
@@ -294,7 +294,7 @@ int InputCheker(int min, int max)
 		cin >> player;
 		if (player < min || player > max)
 		{
-			cout << "å…¥åŠ›ãŒä¸æ­£ã§ã™ã€‚ã‚‚ã†ä¸€åº¦å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚" << endl;
+			cout << "“ü—Í‚ª•s³‚Å‚·B‚à‚¤ˆê“x“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B" << endl;
 		}
 		else
 		{
@@ -304,14 +304,14 @@ int InputCheker(int min, int max)
 	return player;
 }
 
-bool GameOver(const int masu[], int size)
+bool isGameOver(const int masu[], int size)
 {
 	for (int i = 0; i < size; ++i)
 	{
-		if (masu[i] == MASU_FREE)
+		if (masu[i] == CELL_FREE)
 		{
-			return false; // ã¾ã ç©ºããƒã‚¹ãŒã‚ã‚‹
+			return false; // ‚Ü‚¾‹ó‚«ƒ}ƒX‚ª‚ ‚é
 		}
 	}
-	return true; // å…¨ã¦ã®ãƒã‚¹ãŒå–ã‚‰ã‚ŒãŸ
+	return true; // ‘S‚Ä‚Ìƒ}ƒX‚ªæ‚ç‚ê‚½
 }
